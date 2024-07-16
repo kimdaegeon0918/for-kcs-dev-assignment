@@ -160,8 +160,8 @@ public class StocksHistory {
             private T data;         // 실제 응답 데이터
         }
         ```
-        ![image](https://github.com/user-attachments/assets/99a83e47-3de1-4004-bb24-c8118316cec0)
-        ![image](https://github.com/user-attachments/assets/336e8269-6bca-43c6-8dfa-057a9348301d)
+![image](https://github.com/user-attachments/assets/99a83e47-3de1-4004-bb24-c8118316cec0)
+![image](https://github.com/user-attachments/assets/336e8269-6bca-43c6-8dfa-057a9348301d)
 
 ### 전역 예외 처리기를 통해 모든 예외 상황에서 일관된 오류 응답을 제공하여, 클라이언트가 오류 원인을 쉽게 이해할 수 있도록 했습니다.
 - **GlobalExceptionHandler 클래스**:
